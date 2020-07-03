@@ -29,5 +29,9 @@
     "jest": "^25.2.7",
     "metro-react-native-babel-preset": "^0.59.0",
     "react-test-renderer": "16.11.0"
-  }
+  },
+  "main": "index.js",
+  "repository": "git@github.com:rodrigo-pasini/GS-conceitos-react-native.git",
+  "author": "rodrigo8819 <rodrigo@oceano1.com.br>",
+  "license": "MIT"
 }
